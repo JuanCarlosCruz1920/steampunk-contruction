@@ -1,8 +1,3 @@
-
-
-<br/>
-
-<br />
 <div align="center">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src=".public/images/gear-icon.png" alt="Nyebe" width="130" height="100">
