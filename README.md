@@ -1,6 +1,6 @@
 <div align="center">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src=".public/images/gear-icon.png" alt="Nyebe" width="130" height="100">
+    <img src=".public/images/gear-icon.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Steampunck Contruction Website</h3>
